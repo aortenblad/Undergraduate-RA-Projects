@@ -1,0 +1,357 @@
+,Job,Minor Category,Major Category
+0,zookeeper,Sciences,Non_Business
+1,zoologis,Sciences,Non_Business
+2,xylophonist,Arts,Non_Business
+3,waiter,LowStat,Low_Status
+4,waitress,LowStat,Low_Status
+5,warden,Police,Military
+6,warrior,Military,Military
+7,watchmaker,Artisan,Non_Business
+8,weaver,Artisan,Non_Business
+9,welder,Artisan,Non_Business
+10,woodcarver,Artisan,Non_Business
+11,workman,Other_Unsure,Non_Business
+12,wrangler,Agriculture,Non_Business
+13,writer,Literary,Non_Business
+14,valet,LowStat,Low_Status
+15,veteran,Military,Military
+16,veterinarian,Medical,Non_Business
+17,vicar,Religion,Non_Business
+18,violinist,Arts,Non_Business
+19,music,Arts,Non_Business
+20,businessman,Business,Business
+21,yodeler,Arts,Non_Business
+22,sports,Sports,Non_Business
+23,umpire,Sports,Non_Business
+25,usher,Arts,Non_Business
+26,tailor,Artisan,Non_Business
+27,tax collector,Finance_Econ,Business
+28,taxi driver,Travel,Non_Business
+29,taxidermist,Artisan,Non_Business
+30,teacher,Academia,Non_Business
+31,technician,Sciences,Non_Business
+32,tennis player,Sports,Non_Business
+33,test pilot,Military,Military
+34,tiler,Artisan,Non_Business
+35,toolmaker,Artisan,Non_Business
+36,trader,Finance_Econ,Business
+37,trainer,Other_Unsure,Non_Business
+38,translator,International,Non_Business
+39,trash collector,LowStat,Low_Status
+40,travel agent,Travel,Non_Business
+41,treasurer,Finance_Econ,Business
+42,truck driver,Travel,Non_Business
+43,tutor,Academia,Non_Business
+44,typist,LowStat,Low_Status
+45,sailor,Travel,Non_Business
+46,salesperson,LowStat,Low_Status
+47,samurai,Military,Military
+48,saxophonist,Arts,Non_Business
+49,scholar,Academia,Non_Business
+50,scientist,Sciences,Non_Business
+51,scout,Military,Military
+52,scuba diver,Sports,Non_Business
+53,seamstress,Artisan,Non_Business
+54,security guard,Police,Military
+56,sheriff,Police,Military
+57,singer,Arts,Non_Business
+58,smith,Artisan,Non_Business
+59,socialite,Other_Unsure,Non_Business
+60,soldier,Military,Military
+61,spy,Military,Military
+63,statistician,Sciences,Non_Business
+64,stockbroker,Finance_Econ,Business
+65,street sweeper,LowStat,Low_Status
+66,student,Other_Unsure,Non_Business
+67,surgeon,Medical,Non_Business
+68,surveyor,Constructions,Low_Status
+69,swimmer,Sports,Non_Business
+70,radiologist,Medical,Non_Business
+71,rancher,Agriculture,Non_Business
+72,ranger,Military,Military
+73,real estate,Real Estate,Business
+74,receptionist,LowStat,Low_Status
+75,referee,Sports,Non_Business
+76,registrar,LowStat,Non_Business
+77,reporter,Literary,Non_Business
+78,agricultural,Agriculture,Non_Business
+79,researcher,Academia,Non_Business
+80,restaurateur,Business,Business
+81,retailer,LowStat,Low_Status
+82,retiree,Other_Unsure,Non_Business
+83,science,Sciences,Non_Business
+84,quarterback,Sports,Non_Business
+85,quilter,Arts,Non_Business
+86,painter,Arts,Non_Business
+87,paleontologist,Sciences,Non_Business
+88,paralegal,Legal,Legal
+89,park ranger,Government,Non_Business
+90,pathologist,Medical,Non_Business
+91,pawnbroker,Business,Business
+92,peddler,Business,Business
+93,pediatrician,Medical,Non_Business
+94,percussionist,Arts,Non_Business
+95,performer,Arts,Non_Business
+96,pharmacist,Medical,Non_Business
+97,philanthropist,Philanthroy,Non_Business
+98,philosopher,Academia,Non_Business
+99,photographer,Arts,Non_Business
+100,physician,Medical,Non_Business
+101,physicist,Sciences,Non_Business
+102,pianist,Arts,Non_Business
+103,pilot,Travel,Non_Business
+104,pitcher,Sports,Non_Business
+105,plumber,Agriculture,Non_Business
+106,poet,Literary,Non_Business
+107,police,Police,Military
+108,policeman,Police,Military
+109,policewoman,Police,Military
+110,army,Military,Military
+111,colonel,Military,Military
+112,planter,Agriculture,Non_Business
+113,law,Legal,Legal
+114,principal,Academia,Non_Business
+115,private detective,Police,Military
+116,producer,Business,Business
+117,professor,Literary,Non_Business
+118,programmer,Tech,Non_Business
+119,psychiatrist,Medical,Non_Business
+120,psychologist,Sciences,Non_Business
+121,publisher,Literary,Non_Business
+122,oboist,Arts,Non_Business
+123,operator,Other_Unsure,Non_Business
+124,ophthalmologist,Medical,Non_Business
+125,optician,Medical,Non_Business
+126,oracle,Other_Unsure,Non_Business
+127,orderly,Medical,Non_Business
+128,ornithologist,Medical,Non_Business
+129,navigator,Travel,Non_Business
+130,negotiator,International,Non_Business
+131,notary,Government,Non_Business
+132,novelist,Sports,Non_Business
+133,nun,Religion,Non_Business
+134,nurse,Medical,Non_Business
+135,magician,Other_Unsure,Non_Business
+136,maid,LowStat,Low_Status
+137,mail carrier,LowStat,Low_Status
+138,manager,Business,Business
+139,manufacturer,Business,Business
+140,marine,Military,Military
+141,marketer,Business,Business
+142,medicine,Medical,Non_Business
+143,mathematician,Academia,Non_Business
+144,mayor,Government,Non_Business
+145,mechanic,Sciences,Non_Business
+146,messenger,Other_Unsure,Non_Business
+147,midwife,Medical,Non_Business
+148,miner,LowStat,Low_Status
+149,model,Other_Unsure,Non_Business
+150,monk,Religion,Non_Business
+151,muralist,Arts,Non_Business
+152,musician,Arts,Non_Business
+153,laborer,LowStat,Low_Status
+154,landlord,Real Estate,Business
+155,landscaper,Arts,Non_Business
+156,laundress,LowStat,Low_Status
+157,lawyer,Legal,Legal
+158,lecturer,Academia,Non_Business
+159,legal aide,Legal,Legal
+160,librarian,Literary,Non_Business
+161,librettist,Arts,Non_Business
+162,lifeguard,Police,Military
+163,linguist,Academia,Non_Business
+164,lobbyist,Business,Non_Business
+165,locksmith,Artisan,Non_Business
+166,lyricist,Arts,Non_Business
+167,karate teacher,Sports,Non_Business
+168,jailer,Police,Military
+169,janitor,LowStat,Low_Status
+170,jester,Arts,Non_Business
+171,jeweler,Arts,Non_Business
+172,jockey,Sports,Non_Business
+173,journalist,Literary,Non_Business
+174,judge,Legal,Legal
+175,illustrator,Arts,Non_Business
+176,importer,International,Non_Business
+177,instructor,Other_Unsure,Non_Business
+178,intern,LowStat,Low_Status
+179,internist,Other_Unsure,Non_Business
+180,interpreter,International,Non_Business
+181,inventor,Sciences,Non_Business
+182,investigator,Police,Military
+183,hairdresser,LowStat,Low_Status
+184,handyman,LowStat,Low_Status
+185,harpist,Arts,Non_Business
+186,highway patrol,Police,Military
+187,hobo,Other_Unsure,Non_Business
+188,hunter,Sports,Non_Business
+189,game designer,Tech,Non_Business
+190,garbage man,LowStat,Low_Status
+191,gardener,Arts,Non_Business
+192,gatherer,Other_Unsure,Non_Business
+193,gemcutter,Artisan,Non_Business
+194,geneticist,Medical,Non_Business
+195,geographer,Academia,Non_Business
+196,geologist,Sciences,Non_Business
+197,golfer,Sports,Non_Business
+198,guide,Travel,Non_Business
+199,grocer,LowStat,Low_Status
+200,falconer,Sports,Non_Business
+201,farmer,Agriculture,Non_Business
+202,financier,Finance_Econ,Business
+203,firefighter,Police,Military
+204,fisherman,LowStat,Low_Status
+205,flutist,Arts,Non_Business
+206,football player,Sports,Non_Business
+207,foreman,Other_Unsure,Non_Business
+208,ecologist,Academia,Non_Business
+209,economist,Finance_Econ,Business
+210,editor,Literary,Non_Business
+211,educator,Academia,Non_Business
+212,electrician,Sciences,Non_Business
+213,emperor,Government,Non_Business
+214,empress,Government,Non_Business
+215,engineer,Sciences,Non_Business
+216,entertainer,Arts,Non_Business
+217,entomologist,Medical,Non_Business
+218,entrepreneur,Business,Business
+219,executive,Business,Business
+220,explorer,Sports,Non_Business
+221,exporter,International,Non_Business
+222,exterminator,LowStat,Low_Status
+223,dancer,Arts,Non_Business
+224,dentist,Medical,Non_Business
+225,deputy,Other_Unsure,Non_Business
+226,dermatologist,Medical,Non_Business
+227,designer,Arts,Non_Business
+228,detective,Police,Military
+229,dictator,Government,Non_Business
+230,director,Other_Unsure,Non_Business
+231,disc jockey,Arts,Non_Business
+232,diver,Sports,Non_Business
+233,doctor,Medical,Non_Business
+234,doorman,LowStat,Low_Status
+235,driver,LowStat,Low_Status
+236,drummer,Arts,Non_Business
+237,dry cleaner,LowStat,Low_Status
+238,cab driver,LowStat,Low_Status
+239,calligrapher,Arts,Non_Business
+240,captain,Other_Unsure,Non_Business
+241,cardiologist,Medical,Non_Business
+242,caregiver,Medical,Non_Business
+243,carpenter,Constructions,Low_Status
+244,cartographer,Academia,Non_Business
+245,cartoonist,Arts,Non_Business
+246,cashier,Finance_Econ,Business
+247,catcher,Other_Unsure,Non_Business
+248,caterer,Culinary,Non_Business
+249,cellist,Arts,Non_Business
+250,chaplain,Religion,Non_Business
+251,chauffeur,Travel,Non_Business
+252,chef,Culinary,Non_Business
+253,chemist,Sciences,Non_Business
+254,clergyman,Religion,Non_Business
+255,clergywoman,Religion,Non_Business
+256,clerk,LowStat,Low_Status
+257,coach,Sports,Non_Business
+258,cobbler,Artisan,Non_Business
+259,composer,Arts,Non_Business
+260,concierge,Travel,Non_Business
+261,consul,International,Non_Business
+262,contractor,Business,Business
+263,cook,Culinary,Non_Business
+264,cop,Police,Military
+265,coroner,Police,Military
+266,courier,Travel,Non_Business
+267,cryptographer,Tech,Non_Business
+268,custodian,LowStat,Low_Status
+269,babysitter,LowStat,Low_Status
+270,baker,Culinary,Non_Business
+271,ballerina,Arts,Non_Business
+272,banker,Business,Business
+273,barber,Religion,Non_Business
+274,baseball player,Sports,Non_Business
+275,basketball player,Sports,Non_Business
+276,bellhop,LowStat,Low_Status
+277,biologist,Sciences,Non_Business
+278,blacksmith,Artisan,Non_Business
+279,bookkeeper,LowStat,Low_Status
+280,bowler,Sports,Non_Business
+281,builder,Constructions,Low_Status
+282,butcher,Agriculture,Non_Business
+283,butler,LowStat,Low_Status
+284,accountant,Finance_Econ,Business
+285,actor,Arts,Non_Business
+286,actress,Arts,Non_Business
+287,actuary,Finance_Econ,Business
+288,advisor,Other_Unsure,Non_Business
+289,aide,Other_Unsure,Non_Business
+290,ambassador,International,Non_Business
+291,animator,Tech,Non_Business
+292,archer,Sports,Non_Business
+293,artist,Arts,Non_Business
+294,astronaut,Sciences,Non_Business
+295,astronomer,Sciences,Non_Business
+296,athlete,Sports,Non_Business
+297,attorney,Legal,Legal
+298,auctioneer,Business,Business
+299,author,Literary,Non_Business
+300,business,Business,Business
+301,executive,Business,Business
+302,consulting,Business,Business
+303,Army,Military,Military
+304,Navy,Military,Military
+305,Marine,Military,Military
+306,Air Force,Military,Military
+307,National Guard,Military,Military
+308,Guard,Police,Military
+309,war,Military,Military
+310,War,Military,Military
+311,admiral,Military,Military
+312,lieutenant,Military,Military
+313,mercantile,Business,Business
+314,defense,Military,Military
+315,infantry,Military,Military
+316,infantryman,Military,Military
+317,analyst,Other_Unsure,Non_Business
+318,financial analyst,Finance_Econ,Business
+319,banking,Finance_Econ,Business
+320,justice,Legal,Legal
+321,administrator,Other_Unsure,Non_Business
+322,businesswoman,Business,Business
+323,investment banker,Finance_Econ,Business
+324,planar,Government,Non_Business
+325,county planner,Other_Unsure,Non_Business
+326,consultant,Other_Unsure,Non_Business
+327,legislative consultant,Other_Unsure,Non_Business
+328,caseworker,Other_Unsure,Non_Business
+329,business owner,Business,Business
+330,staff member,Other_Unsure,Non_Business
+331,staff,Other_Unsure,Non_Business
+332,staff assistant,Other_Unsure,Non_Business
+333,administrative assistant,Other_Unsure,Non_Business
+334,realtor,Real Estate,Business
+335,insurance,Finance_Econ,Business
+336,insurance agent,Finance_Econ,Business
+337,officer,Police,Military
+338,faculty,Academia,Non_Business
+339,commissioner,Government,Non_Business
+340,tax commissioner,Government,Non_Business
+341,broker,Finance_Econ,Business
+342,stock broker,Finance_Econ,Business
+343,securities analyst,Finance_Econ,Business
+344,trustee,Business,Business
+345,founder,Business,Business
+346,mission,Religion,Non_Business
+347,pastor,Religion,Non_Business
+348,longshoreman,Travel,Non_Business
+349,ranching,Agriculture,Non_Business
+351,farming,Agriculture,Non_Business
+352,bricklayer,Constructions,Low_Status
+353,newspaperman,LowStat,Low_Status
+354,mail,LowStat,Low_Status
+355,dealer,Business,Business
+356,construction,Constructions,Low_Status
+357,agriculture,Agriculture,Non_Business
+358,Attorney General,Legal,Legal
+359,attorney general,Legal,Legal
